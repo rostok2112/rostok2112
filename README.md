@@ -7,7 +7,7 @@ ____
 
 ## Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rostok2112&show_icons=true&theme=transparent&hide=stars,commits&count_private=true&hide_border=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rostok2112&show_icons=true&theme=transparent&hide=contribs,prs,issues,&count_private=true&hide_border=true&include_all_commits=true)
 
 ____
 
