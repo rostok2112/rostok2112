@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rostok2112
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning some DevOps staff
+- 🌱 I’m currently learning some DevOps stuff
 - 📫 How to reach me: tg @Dr00L
 
 ____
