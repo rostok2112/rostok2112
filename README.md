@@ -19,4 +19,4 @@ ____
 
 ## Visitor count:
 
-![Visitor Count](https://profile-counter.glitch.me/rostok2112/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rostok2112)
