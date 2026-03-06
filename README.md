@@ -13,7 +13,7 @@ Outside work I spend most of my time building the same things I genuinely enjoy:
 
 - Python and Django backend development
 - API design, templates, business logic, and infrastructure support
-- VRChat, VR, and Windows-native tooling
+- VRChat, VR
 - Embedded electronics and low-level programming
 
 ## Selected repositories
