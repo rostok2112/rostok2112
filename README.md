@@ -4,7 +4,7 @@ Python/Django backend developer from Chernihiv, Ukraine, with a Master's degree 
 
 At work I build new functionality for an investment application, covering backend logic, templates, APIs, and keeping the infrastructure running.
 
-Outside work I spend most of my time building the same things I genuinely enjoy: VRChat and VR tools, Windows-focused utilities, low-level experiments, and embedded electronics.
+Outside work I spend most of my time building the same things I genuinely enjoy: VRChat and VR tools, System utilities, low-level experiments, and embedded electronics.
 
 [![Profile views](https://komarev.com/ghpvc/?username=rostok2112&style=flat-square)](https://github.com/rostok2112)
 [![Telegram](https://img.shields.io/badge/Telegram-@Dr00L-26A5E4?style=flat-square&logo=telegram)](https://t.me/Dr00L)
